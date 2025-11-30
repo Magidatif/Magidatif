@@ -1,11 +1,7 @@
 # 👋 Welcome to My Professional Portfolio
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&lines=Data+Analyst+%7C+QA+Automation+Engineer;Healthcare+Specialist+%7C+BI+Expert;4%2B+Years+in+Healthcare+Analytics" alt="Typing SVG" />
-</div>
-
----
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%AF+DATA+ANALYST;%F0%9F%A7%AA+QA+AUTOMATION+ENGINEER;%F0%9F%8F%A5+HEALTHCARE+SPECIALIST;%F0%9F%93%8A+BI+DASHBOARDS+EXPERT;4%2B+YEARS+IN+HEALTHCARE+TECH" alt="Typing Animation
 ## 🎯 About Me
 
 I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of experience** in healthcare data analytics, software testing, and business intelligence. I specialize in transforming raw data into actionable insights and building robust automation solutions.
