@@ -85,14 +85,6 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 - Tech: Python | SQL | Excel
 - [View Project](https://github.com/Magidatif/RCM_Report)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magidatif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magidatif&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
 
 ---
 
