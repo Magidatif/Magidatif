@@ -74,6 +74,17 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 - Tech: Python | Jupyter Notebook | Pandas
 - [View Project](https://github.com/Magidatif/Online-Retail-Sales-Analysis)
 
+### 💰 **Revenue Cycle Management - Comprehensive Analytics**
+
+*Strategic analysis and optimization of hospital revenue operations*
+
+- Complete RCM process optimization from billing to collection
+- Multi-branch revenue analysis and performance benchmarking
+- Claims denials analysis and resubmission tracking
+- Accounts receivable aging and collection rate improvements
+- Patient payment trends and insurance verification optimization
+- Tech: SQL | Power BI | Tableau | Python | Excel
+
 ### 📋 **RCM Report - Python Analytics**
 *Revenue Cycle Management automated reporting*
 - Automated data extraction and transformation
