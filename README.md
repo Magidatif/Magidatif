@@ -10,7 +10,8 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 - 📊 **Data Analysis & Dashboard Creation**: Power BI, Tableau, Google Sheets, Looker Studio
 - 🧪 **Software Testing**: Manual Testing, Automation (Selenium, TestNG), API Testing (Postman)
 - 💾 **Database Management**: SQL queries, Database Testing (MySQL, SQL Server)
-- 🏥 **Healthcare Domain Expertise**: Revenue Cycle Management, Clinical Analytics, Pharmacovigilance
+- 🏥 **Healthcare Domain Expertise**: Revenue Cycle Management, Clinical Analytics, Pharmacovigilance | RCM Analytics
+- 💰 **Revenue Cycle Management**: Billing optimization, claims analysis, accounts receivable, payment processing, insurance verification
 - 🤖 **Automation & Scripting**: Python, Java, SQL, JavaScript
 - 📈 **Business Intelligence**: Predictive Analytics, Statistical Modeling, Data Visualization
 
