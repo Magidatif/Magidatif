@@ -174,5 +174,5 @@ October 6 University, Cairo, Egypt
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Magidatif&style=flat-square&color=blue" alt="Profile Views" />
   
-  **Made with ❤️ by Magid Atif**
+  **Made with by Magid Atif**
 </div>
