@@ -1,7 +1,7 @@
 # 👋 Welcome to My Professional Portfolio
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=120&lines=%F0%9F%8E%AF+DATA+ANALYST;%F0%9F%A7%AA+QA+AUTOMATION+ENGINEER;%F0%9F%8F%A5+REVENUE+CYCLE+MANAGEMENT;%F0%9F%93%8A+BI+DASHBOARDS+EXPERT" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=120&lines=%F0%9F%8E%AF+DATA+ANALYST;%F0%9F%A7%AA+QA+AUTOMATION+ENGINEER;%F0%9F%8F%A5+REVENUE+CYCLE+MANAGEMENT;%F0%9F%93%8A+BI+DASHBOARDS+Developer" alt="Typing Animation" />
 </div>
 I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of experience** in healthcare data analytics, software testing, and business intelligence. I specialize in transforming raw data into actionable insights and building robust automation solutions. I have specialized expertise in **Revenue Cycle Management (RCM)** analytics, driving healthcare operational efficiency through billing optimization, claims management, and revenue recovery.
 
