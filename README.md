@@ -92,6 +92,17 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 - Performance metrics calculation and analysis
 - Tech: Python | SQL | Excel
 - [View Project](https://github.com/Magidatif/RCM_Report)
+- 
+### 🏥 **GP Healthcare Dashboard**
+
+*Advanced Tableau dashboard for healthcare performance monitoring*
+
+- Real-time tracking of key healthcare metrics and KPIs
+- Interactive dashboards for clinical and operational insights
+- Multi-dimensional data analysis and reporting
+- Tech: Tableau | Healthcare Data Analysis
+
+- [View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/Gp_HealthcareDashboard/Gp_HealthcareDashboard#1)
 
 
 ---
