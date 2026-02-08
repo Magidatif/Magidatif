@@ -103,11 +103,15 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 - Tech: Tableau | Healthcare Data Analysis
 
 - [View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/Gp_HealthcareDashboard/Gp_HealthcareDashboard#1)
+- 
+### 📊 **Health Finance Insight Dashboard**
 
-
----
-
-## 🌟 Certifications & Training
+*Comprehensive healthcare financial performance dashboard for medical institutions*
+- Advanced analytics for hospital revenue streams and financial KPIs
+- Real-time tracking of healthcare finance metrics and operational expenses
+   Multi-dimensional financial analysis and performance benchmarking
+    - Tech: Tableau | Healthcare Financial Analytics
+      - [View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/HealthFinanceInsight/HealthFinanceInsight)
 
 ✅ **Software Testing Foundation (ISTQB-Level)**  
 ✅ **Data Fundamentals & Analytics (IBM SkillsBuild)**  
