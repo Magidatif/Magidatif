@@ -47,7 +47,7 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 
 ## 📌 Featured Projects
 
-### 📊 **OutPatient Bulk Upload Dashboard (Denil UHI)**
+### 📊 **PHC vs Hospital Financial & Risk Performance (Sep 2024)**
 *Interactive Tableau dashboard for comprehensive outpatient healthcare analytics*
 
 - Real-time outpatient data visualization and insights
