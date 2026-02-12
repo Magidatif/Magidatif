@@ -47,6 +47,18 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 
 ## 📌 Featured Projects
 
+### 📊 **OutPatient Bulk Upload Dashboard (Denil UHI)**
+*Interactive Tableau dashboard for comprehensive outpatient healthcare analytics*
+
+- Real-time outpatient data visualization and insights
+- Bulk upload tracking with data quality monitoring
+- Interactive story-based dashboard for data exploration
+- Healthcare trends analysis and performance metrics
+- Patient flow and visit pattern analytics
+- Tech: Tableau | Healthcare Data Analytics | Interactive Visualization
+- [🔗 View Live Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/OutPatientBulkuploadDenilUHI/Story1)
+
+
 ### 🏥 **Hospital Bed Occupancy Risk Forecast**
 *Predictive analytics for healthcare capacity management*
 - Forecasts bed occupancy for Medicine, Pediatrics, and Surgery departments
