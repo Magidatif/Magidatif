@@ -192,3 +192,20 @@ October 6 University, Cairo, Egypt
   
   **Made with by Magid Atif**
 </div>
+
+
+---
+
+## 📊 Tableau Dashboards
+
+### 🏥 **OutPatient Bulk Upload Dashboard (Denil UHI)**
+*Interactive dashboard for healthcare outpatient data analysis*
+
+[![View Dashboard](https://img.shields.io/badge/Tableau-View%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/magid.atif/viz/OutPatientBulkuploadDenilUHI/Story1)
+
+- 📈 Comprehensive outpatient data visualization
+- 🔍 Bulk upload tracking and analytics
+- 📊 Interactive story-based dashboard
+- 🏥 Healthcare data insights and trends
+
+---
