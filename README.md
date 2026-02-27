@@ -1,29 +1,63 @@
-# 👋 Welcome to My Professional Portfolio
+<h1 align="center">👋 Hi, I'm Magid Atif</h1>
+<h3 align="center">Healthcare Data Analyst | Power BI & Tableau Expert | QA Automation Engineer</h3>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=120&lines=%F0%9F%8E%AF+DATA+ANALYST;%F0%9F%A7%AA+QA+AUTOMATION+ENGINEER;%F0%9F%8F%A5+REVENUE+CYCLE+MANAGEMENT;%F0%9F%93%8A+DASHBOARDS+DEVElOPER" alt="Typing Animation" />
-</div>
-I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of experience** in healthcare data analytics, software testing, and business intelligence. I specialize in transforming raw data into actionable insights and building robust automation solutions. I have specialized expertise in **Revenue Cycle Management (RCM)** analytics, driving healthcare operational efficiency through billing optimization, claims management, and revenue recovery.
+<p align="center">
+  <a href="https://www.linkedin.com/in/magid-atif85"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/201067926969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://t.me/Magidatif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:magid.atif85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-### 🏆 What I Do:
-- 📊 **Data Analysis & Dashboard Creation**: Power BI, Tableau, Google Sheets, Looker Studio
-- 🧪 **Software Testing**: Manual Testing, Automation (Selenium, TestNG), API Testing (Postman)
-- 🔗 **REST API Testing**: REST Assured, Postman, API Testing Best Practices
-- 💾 **Database Management**: SQL queries, Database Testing (MySQL, SQL Server)
-- 🏥 **Healthcare Domain Expertise**: Revenue Cycle Management, Clinical Analytics, Pharmacovigilance | RCM Analytics
-- 💰 **Revenue Cycle Management**: Billing optimization, claims analysis, accounts receivable, payment processing, insurance verification
-- 🤖 **Automation & Scripting**: Python, Java, SQL, JavaScript
-- 📈 **Business Intelligence**: Predictive Analytics, Statistical Modeling, Data Visualization
+---
+
+## 💼 Freelance Services — What I Can Do For You
+
+> **I help hospitals, clinics, pharmacies, retail businesses, and SMEs turn raw data into clear dashboards and actionable decisions.**
+
+| Service | Tools | Delivery |
+|---|---|---|
+| 📊 Power BI / Tableau Dashboard | Power BI, Tableau, Looker Studio | 3–7 days |
+| 🏥 Healthcare KPI Dashboard (RCM, AR, Billing) | Power BI, SQL, Excel | 5–7 days |
+| 📈 Sales & Revenue Analysis Report | Python, Excel, Tableau | 3–5 days |
+| 🧹 Data Cleaning & Transformation | Python, SQL, Excel | 2–4 days |
+| 🔄 Automated Monthly Reports | Python, Excel, Power BI | 5–7 days |
+| 🧪 QA Automation Testing | Selenium, TestNG, Cucumber, Java | 5–10 days |
+
+### 💡 Why Work With Me?
+- **4+ years** of real-world experience in healthcare data analytics and RCM.
+- I don't just build charts — I deliver **insights that reduce costs and improve revenue**.
+- Specialized in **Egyptian Healthcare Authority** data standards, RCM workflows, and clinical KPIs.
+- Available for **quick turnaround** on small projects and long-term collaboration.
+
+> 📩 **Have data that needs analysis or a dashboard that needs building?**
+> Send me a message on [WhatsApp](https://wa.me/201067926969) or [LinkedIn](https://www.linkedin.com/in/magid-atif85) — I offer a **free 15-minute consultation** to review your data and propose a solution.
+
+---
+
+## 🙋 About Me
+
+I'm a **Data Analyst and QA Automation Engineer** with **4+ years of experience** in healthcare data analytics, business intelligence, and software testing.
+
+- 🏥 Specialized in **Revenue Cycle Management (RCM)** — billing, claims, AR aging, collection rates.
+- 📊 Build **interactive dashboards** with Power BI and Tableau for hospitals, clinics, and businesses.
+- 🤖 Develop **automation testing frameworks** using Selenium, TestNG, and Cucumber.
+- 🐍 Write **Python scripts** for data cleaning, analysis, and automated reporting.
+- 🌍 Based in **Luxor, Egypt** — available for remote work globally and Gulf region positions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Scripting
+### Data & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Testing & QA
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -31,176 +65,152 @@ I'm a passionate **Data Analyst and QA Automation Engineer** with **4+ years of 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
-### Data & BI Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Tools & Platforms
+### Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 📊 **PHC vs Hospital Financial & Risk Performance (Sep 2024)**
-*Interactive Tableau dashboard for comprehensive outpatient healthcare analytics*
+### 🏥 Hospital Bed Occupancy Risk Forecast
+> **Client type:** Hospital Management | **Tools:** Python, Power BI, Excel
 
-- Real-time outpatient data visualization and insights
-- Bulk upload tracking with data quality monitoring
-- Interactive story-based dashboard for data exploration
-- Healthcare trends analysis and performance metrics
-- Patient flow and visit pattern analytics
-- Tech: Tableau | Healthcare Data Analytics | Interactive Visualization
-- [🔗 View Live Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/OutPatientBulkuploadDenilUHI/Story1)
+- Forecasts bed occupancy for Medicine, Pediatrics, and Surgery departments.
+- Helps hospital management **plan capacity and avoid overcrowding** in peak periods.
+- Includes length-of-stay analysis and admission pattern modeling.
+- **Business value:** Reduces resource waste and improves patient flow planning.
 
+[🔗 View Project](https://github.com/Magidatif/Hospital-Bed-Occupancy-Risk-Forecast)
 
-### 🏥 **Hospital Bed Occupancy Risk Forecast**
-*Predictive analytics for healthcare capacity management*
-- Forecasts bed occupancy for Medicine, Pediatrics, and Surgery departments
-- Analyzes impact of length of stay and admission patterns
-- Tech: Python | Power BI | Excel
-- [View Project](https://github.com/Magidatif/Hospital-Bed-Occupancy-Risk-Forecast)
+---
 
-### 💰 **Healthcare Revenue Cycle Dashboards**
-*BI dashboards for monitoring hospital performance metrics*
-- Real-time tracking of productivity, costs, revenue, and settlement rates
-- Multi-branch performance analytics and reporting
-- Tech: SQL | Power BI | Tableau
-- [View Project](https://github.com/Magidatif/Hospital-Revenue-On-tableau)
+### 💰 Healthcare Revenue Cycle Dashboards
+> **Client type:** Multi-branch Hospital / Clinic Group | **Tools:** SQL, Power BI, Tableau
 
-### 🧪 **Automation Exercise Testing Framework**
-*End-to-end automation testing for e-commerce platform*
-- Comprehensive test automation for registration, login, cart, and checkout
-- BDD implementation with Cucumber
-- Tech: Java | Selenium | TestNG | Cucumber
-- [View Project](https://github.com/Magidatif/AutomationExerciseProject_7.55_Comp_TC)
+- Real-time tracking of **productivity, costs, revenue, and settlement rates**.
+- Multi-branch performance analytics with drill-down capabilities.
+- **Business value:** Helped identify revenue leakage and improve collection rates across branches.
 
-### 📊 **Online Retail Sales Analysis**
-*Advanced data analytics project for retail insights*
-- Analyzes sales trends, customer behavior, and revenue patterns
-- Statistical analysis and predictive modeling
-- Tech: Python | Jupyter Notebook | Pandas
-- [View Project](https://github.com/Magidatif/Online-Retail-Sales-Analysis)
+[🔗 View Project](https://github.com/Magidatif/Hospital-Revenue-On-tableau)
 
-### 💰 **Revenue Cycle Management - Comprehensive Analytics**
+---
 
-*Strategic analysis and optimization of hospital revenue operations*
+### 📊 PHC vs Hospital Financial & Risk Performance
+> **Client type:** Healthcare Authority / Ministry-level | **Tools:** Tableau
 
-- Complete RCM process optimization from billing to collection
-- Multi-branch revenue analysis and performance benchmarking
-- Claims denials analysis and resubmission tracking
-- Accounts receivable aging and collection rate improvements
-- Patient payment trends and insurance verification optimization
-- Tech: SQL | Power BI | Tableau | Python | Excel
+- Comprehensive outpatient analytics comparing Primary Healthcare Centers vs Hospitals.
+- Bulk upload tracking with data quality monitoring.
+- **Business value:** Supports policy decisions for healthcare resource allocation.
 
-### 📋 **RCM Report - Python Analytics**
-*Revenue Cycle Management automated reporting*
-- Automated data extraction and transformation
-- Performance metrics calculation and analysis
-- Tech: Python | SQL | Excel
-- [View Project](https://github.com/Magidatif/RCM_Report)
-- 
-### 🏥 **GP Healthcare Dashboard**
+[🔗 View Live Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/OutPatientBulkuploadDenilUHI/Story1)
 
-*Advanced Tableau dashboard for healthcare performance monitoring*
+---
 
-- Real-time tracking of key healthcare metrics and KPIs
-- Interactive dashboards for clinical and operational insights
-- Multi-dimensional data analysis and reporting
-- Tech: Tableau | Healthcare Data Analysis
+### 🏥 GP Healthcare Dashboard
+> **Client type:** General Practice Clinic | **Tools:** Tableau
 
-- [View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/Gp_HealthcareDashboard/Gp_HealthcareDashboard#1)
-- 
-### 📊 **Health Finance Insight Dashboard**
+- Real-time tracking of key clinical metrics and operational KPIs.
+- Interactive multi-dimensional analysis for clinic performance.
+- **Business value:** Gives clinic owners a clear view of visit trends and resource utilization.
 
-*Comprehensive healthcare financial performance dashboard for medical institutions*
-- Advanced analytics for hospital revenue streams and financial KPIs
-- Real-time tracking of healthcare finance metrics and operational expenses
-   Multi-dimensional financial analysis and performance benchmarking
-    - Tech: Tableau | Healthcare Financial Analytics
-      - [View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/HealthFinanceInsight/HealthFinanceInsight)
+[🔗 View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/Gp_HealthcareDashboard/Gp_HealthcareDashboard#1)
 
-✅ **Software Testing Foundation (ISTQB-Level)**  
-✅ **Data Fundamentals & Analytics (IBM SkillsBuild)**  
-✅ **Data Analysis Specialist**  
-✅ **Revenue Cycle Management in Healthcare**  
-✅ **Master of Power BI**  
-✅ **Python Programming & Automation**  
-✅ **Pharmacovigilance & Healthcare Compliance**  
-✅ **Microsoft Excel Advanced**  
+---
+
+### 📊 Health Finance Insight Dashboard
+> **Client type:** Medical Institution / CFO level | **Tools:** Tableau
+
+- Advanced analytics for hospital revenue streams and financial KPIs.
+- Real-time tracking of healthcare finance metrics and operational expenses.
+- **Business value:** Enables financial leadership to spot trends and reduce operational costs.
+
+[🔗 View Dashboard](https://public.tableau.com/app/profile/magid.atif/viz/HealthFinanceInsight/HealthFinanceInsight)
+
+---
+
+### 💰 RCM Report — Python Analytics
+> **Client type:** Hospital Revenue Team | **Tools:** Python, SQL, Excel
+
+- Automated data extraction, transformation, and RCM metrics calculation.
+- Replaces manual monthly reporting with a Python-powered pipeline.
+- **Business value:** Saves 10+ hours/month of manual reporting work.
+
+[🔗 View Project](https://github.com/Magidatif/RCM_Report)
+
+---
+
+### 📊 Online Retail Sales Analysis
+> **Client type:** E-commerce / Retail Business | **Tools:** Python, Pandas, Jupyter
+
+- Analyzes sales trends, customer behavior, and revenue patterns.
+- Statistical analysis and predictive modeling for demand forecasting.
+- **Business value:** Helps retail managers identify top products and underperforming categories.
+
+[🔗 View Project](https://github.com/Magidatif/Online-Retail-Sales-Analysis)
+
+---
+
+### 🧪 Automation Testing Framework (E-Commerce)
+> **Client type:** Software / QA Team | **Tools:** Java, Selenium, TestNG, Cucumber
+
+- End-to-end automation for registration, login, cart, checkout, and search flows.
+- BDD implementation with Cucumber for readable test scenarios.
+- **Business value:** Reduces manual regression testing time by 70%+.
+
+[🔗 View Project](https://github.com/Magidatif/AutomationExerciseProject_7.55_Comp_TC)
 
 ---
 
 ## 💼 Professional Experience
 
-### **Data Analyst - Technical Office**
-*Egyptian Healthcare Authority, Luxor | Oct 2024 – Present*
-- Building SQL queries and Power BI dashboards for multi-department analytics
-- Leading data validation and automated reporting initiatives
-- Improving resource allocation through predictive analytics
+### Data Analyst — Technical Office
+**Egyptian Healthcare Authority, Luxor** | Oct 2024 – Present
+- Building SQL queries and Power BI dashboards for multi-department analytics.
+- Leading data validation and automated reporting initiatives.
+- Improving resource allocation through predictive analytics.
 
-### **Data Analyst - Revenue Cycle Management**
-*Cairo | Mar 2024 – Sep 2024*
-- Analyzed multi-branch healthcare data using Tableau and SQL
-- Built dashboards for revenue optimization and cost reduction
-- Implemented predictive models for patient inflow forecasting
+### Data Analyst — Revenue Cycle Management
+**Cairo** | Mar 2024 – Sep 2024
+- Analyzed multi-branch healthcare data using Tableau and SQL.
+- Built dashboards for revenue optimization and cost reduction.
+- Implemented predictive models for patient inflow forecasting.
 
-### **Previous Roles** (2022-2024)
+### Previous Roles (2020–2024)
 - Pharmacy Department Director
 - Clinical Pharmacist
 - Healthcare Operations Specialist
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**Bachelor of Pharmacy**  
-October 6 University, Cairo, Egypt
+**Bachelor of Pharmacy** — October 6 University, Cairo, Egypt
 
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/magid-atif85" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <a href="https://wa.me/201067926969" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/Magidatif" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+**Certifications:**
+- ✅ Software Testing Foundation (ISTQB-Level)
+- ✅ Data Fundamentals & Analytics (IBM SkillsBuild)
+- ✅ Revenue Cycle Management in Healthcare
+- ✅ Master of Power BI
+- ✅ Python Programming & Automation
+- ✅ Microsoft Excel Advanced
+- ✅ Pharmacovigilance & Healthcare Compliance
 
 ---
 
 ## 📞 Open To
 
-✅ **Remote Opportunities** - Full-time / Part-time / Contract  
-✅ **Gulf Region Positions** - UAE, Qatar  
-✅ **Freelance Projects** - Data Analysis, QA Testing, BI Dashboards  
-✅ **Collaboration** - Open source projects & knowledge sharing  
-✅ **Teaching & Mentoring** - Sharing expertise in QA and Data Analytics  
+- ✅ **Freelance Projects** — Data Analysis, Power BI/Tableau Dashboards, QA Automation
+- ✅ **Remote Full-time / Part-time / Contract** — Globally
+- ✅ **Gulf Region Positions** — UAE, Qatar, Saudi Arabia
+- ✅ **Healthcare Data Projects** — RCM, Clinical Analytics, Finance Dashboards
+- ✅ **Teaching & Mentoring** — Data Analytics and QA Testing
 
 ---
 
-## 💡 Fun Facts
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Magidatif&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-- 🎯 Passionate about data-driven decision making
-- 🧠 Continuous learner exploring AI and advanced analytics
-- 🏥 Healthcare domain expert with 4+ years experience
-- 🤝 Open to collaboration and mentoring
-- 🌍 Available for remote work globally
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Magidatif&style=flat-square&color=blue" alt="Profile Views" />
-  
-  **Created by Magid Atif**
-</div>
+<p align="center"><strong>Made by Magid Atif</strong></p>
