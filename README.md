@@ -216,9 +216,6 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 **📬 Email:** magid.atif85@gmail.com
 
 **💔 LinkedIn:** [linkedin.com/in/magid-atif85](https://www.linkedin.com/in/magid-atif85)
-
-**🔗 Upwork:** *(Send me a message for my profile link)*
-
 ---
 
 ### 🚀 **Free Consultation Available**
