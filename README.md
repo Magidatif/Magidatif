@@ -185,7 +185,7 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 **Bachelor of Pharmacy** — October 6 University, Cairo, Egypt
 
 **Certifications:**
-- ✅ Software Testing Foundation (ISTQB)
+- ✅ Software Testing Foundation (DEBi)
 - ✅ Data Fundamentals & Analytics (IBM SkillsBuild)
 - ✅ Revenue Cycle Management in Healthcare
 - ✅ Master of Power BI
