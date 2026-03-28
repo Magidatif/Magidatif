@@ -162,7 +162,7 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 ## 💼 Professional Experience
 
 ### Data Analyst — Technical Office
-**Egyptian Healthcare Authority, Luxor** | Oct 2024 – Present
+**Egyptian Healthcare Authority, | Oct 2024 – Present
 - Building SQL queries and Power BI dashboards for 15+ healthcare facilities
 - Leading data validation for national health insurance (UHI) reporting
 - Reduced report generation time by **60%** through automation
@@ -174,7 +174,7 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 - Implemented patient inflow forecasting models with **85% accuracy**
 
 ### Pharmacy Department Director
-**Al Andalus Hospital Group, Luxor** | 2020 – 2024
+**Al Andalus Hospital Group, | 2020 – 2024
 - Managed pharmacy operations and inventory for 200-bed hospital
 - Optimized medication procurement, reducing costs by **18%**
 
