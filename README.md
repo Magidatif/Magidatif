@@ -138,6 +138,15 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 
 ---
 
+### 🏥 **Daniel Rejection Analytics (RCM Dashboard)**
+**Problem:** Healthcare teams needed real-time visibility into claim rejection patterns to reduce denials and optimize the revenue cycle.
+**Solution:** Built an interactive RCM analytics dashboard tracking rejection KPIs, denial trends, payer performance, and collection rates with drill-down filters.
+**Result:** Enables billing teams to **identify top rejection reasons instantly**, prioritize follow-ups, and reduce claim denial rates.
+
+[🔗 View Live Dashboard](https://daniel-rejection-analytics-rcm.netlify.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Data & BI:**
