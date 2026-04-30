@@ -147,6 +147,15 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 
 ---
 
+### 🏥 **Claims Denial Analysis & Financial Impact Dashboard**
+**Problem:** Hospital revenue cycle teams had no clear visibility into why claims were being denied, leading to massive financial losses totaling over **33M EGP** in denied amounts.
+
+**Solution:** Built a comprehensive Power BI dashboard analyzing **288,625 claims** to uncover denial root causes, track provider & clinician performance, monitor monthly trends, and measure the revenue gap across services, specialties, and ICD codes. Coming from a background as a **Pharmacist**, I applied clinical diagnostic thinking to "diagnose" and "treat" revenue leakage.
+
+**Result:** Identified that *"Coverage not found"* (MB-NC-01) alone accounts for the largest financial burden (13M+ EGP). The dashboard reveals a **65.4% Revenue Gap Rate** and empowers management to fix front-end registration issues, reduce denials, and recover lost revenue.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Data & BI:**
