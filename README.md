@@ -152,7 +152,7 @@ If you have **data sitting in Excel sheets or databases** and need it turned int
 
 **Solution:** Built a comprehensive Power BI dashboard analyzing **288,625 claims** to uncover denial root causes, track provider & clinician performance, monitor monthly trends, and measure the revenue gap across services, specialties, and ICD codes. Coming from a background as a **Pharmacist**, I applied clinical diagnostic thinking to "diagnose" and "treat" revenue leakage.
 
-**Result:** Identified that *"Coverage not found"* (MB-NC-01) alone accounts for the largest financial burden (13M+ EGP). The dashboard reveals a **65.4% Revenue Gap Rate** and empowers management to fix front-end registration issues, reduce denials, and recover lost revenue.
+**Result:** Identified that *"Coverage not found"* (MB-NC-01) alone accounts for the largest financial burden (13M+ EGP). The dashboard reveals a **65.4% Revenue Gap Rate** and empowers management to fix front-end registration issues, reduce denials, and recover lost revenue.  [📄 View Full Dashboard Report (PDF)](https://github.com/Magidatif/Magidatif/blob/main/Claims-Denial-Analysis-&-Financial-Impact-Dashboard.pdf)
 
 ---
 
