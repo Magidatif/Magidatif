@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Magid Atif
+#  Magid Atif
 ### Healthcare Data Analyst| RCM Specialist | Power BI Expert | QA Automation Engineer
 
 <p>
