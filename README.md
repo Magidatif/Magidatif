@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Magid Atif
-### Healthcare Data Analyst | Power BI Expert | QA Automation Engineer
+### Healthcare Data Analyst| RCM Specialist | Power BI Expert | QA Automation Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/magid-atif85"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
